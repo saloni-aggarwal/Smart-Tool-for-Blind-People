@@ -1,0 +1,18 @@
+links to research papers for image classification ->
+
+https://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/
+
+https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/
+
+https://appliedmachinelearning.blog/2018/03/24/achieving-90-accuracy-in-object-recognition-task-on-cifar-10-dataset-with-keras-convolutional-neural-networks/
+
+https://www.learnopencv.com/image-recognition-and-object-detection-part1/
+
+You tube links ->
+https://www.youtube.com/watch?v=R8vjO4EJ9iA
+
+---****better Explanation of Deep learning and Neural networks
+https://www.youtube.com/watch?v=OT1jslLoCyA&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=2
+
+----**** best video for CNN .....amazing one
+https://www.youtube.com/watch?v=2-Ol7ZB0MmU
